@@ -1,19 +1,54 @@
 @charset "UTF-8" ;
 
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #870a28;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+    height: 500px;
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
 h1 {
     color: white;
     text-align: center;
     padding: 5px;
-    border-radius: 5px;
-    background-image: linear-gradient(to right, #00613c, transparent) ;
+    font-size: 3em;
+  
 }
 
+
+h2 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: 2em;
+}
+
+
+p {
+    text-justify: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.8em;
+}
+
+div {
+    text-align: center;
+}
 
 
 nav {
@@ -53,4 +88,9 @@ footer {
     box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.575);
     bottom: 0;
     width: 100%;
+}
+
+main img {
+    border-radius: 5px ;
+    
 }
