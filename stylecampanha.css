@@ -70,6 +70,7 @@ h1 {
     margin-left: 10px;
     border-radius: 5px;
     background-color: #00613c;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.438);
 }
 
 h2 {
