@@ -45,6 +45,7 @@ footer {
     box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.575);
     bottom: 0;
     width: 100%;
+    margin-top: 40px;
 }
 
 footer > a {
@@ -90,10 +91,16 @@ strong {
 p {
   
     padding: 10px;
-    font-size: 1.6em;
+    font-size: 1.5em;
 }
 
 .img {
     text-align: center;
+ 
 }
 
+img {
+
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.356);
+}
