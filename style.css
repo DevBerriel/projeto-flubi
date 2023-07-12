@@ -43,7 +43,7 @@ nav {
 nav > a {
     text-decoration: none;
     color: white;
-    margin: 30px;
+    margin: 13px;
     transition-duration: 0.4s;
 }
 
@@ -99,8 +99,7 @@ h2 {
 }
 
 .craque {
-    border: 0.1px solid black;
-    border-radius: 6px;
+        border-radius: 6px;
     padding: 4px;
     margin: 5px;
     width: 39%;
@@ -116,3 +115,4 @@ img {
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
 }
 
+@media (min-width: 300px) and (max-width:600px)
