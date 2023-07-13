@@ -103,11 +103,13 @@ h2 {
     padding: 4px;
     margin: 5px;
     width: 39%;
+    text-justify: auto;
 }
 
 .craque img {
     width: 500px;
     height: 500px;
+    border-radius: 50%;
 }
 
 img {
